@@ -9,8 +9,6 @@ header {
 
 nav {
   background-color: darkgray;
-  display: inline-block;
-  width: 80px;
 }
 
 main {
@@ -22,10 +20,10 @@ footer {
   background-color: sky blue;
 }
 
-/* li { */
-  /* display: inline-block;
+li {
+  display: inline-block;
   width: 200px;
-} */
+}
 
 h1 {
   text-align: center;
